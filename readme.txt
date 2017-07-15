@@ -31,10 +31,10 @@ Start After_insert.sql
 javac -cp .:ojdbc7.jar university.java
 
 please enter the id:
-kxm152630
+kxm15*****
 
 Please enter the password:
-123456
+******
 
 Sample inputs and outputs :
 
